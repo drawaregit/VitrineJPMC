@@ -1,0 +1,1 @@
+Ce site à été réaliser en utilisant du HTML basique ainsi que BOOTSTRAP et PHP. Il n'es pas aussi optimisé que ce je souhaiter originalement mais j'ai suivi la demande de mon maitre de stage. IL est entierement fonctionnel mais presente des problèmes lors de l'affichage des differentes images promotionelles des produits présenter.
